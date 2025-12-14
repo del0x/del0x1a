@@ -30,8 +30,6 @@ This is my open source profile for experimenting, testing new things, and sharin
 
 - 🏢 Part of [vo1d0x](https://github.com/vo1d0x)
 - 🌐 [qube.foo](https://qube.foo)
-- 🎮 Fun fact: I still play AVP2 to this day.
-
 ---
 
 **Stats:**  
