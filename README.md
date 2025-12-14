@@ -28,7 +28,7 @@ My toolbox: Python, Kafka, GCP, Snowflake, dbt, Airflow, Airbyte, Kubernetes, Ba
 
 This is my open source profile for experimenting, testing new things, and sharing anything interesting I find on the way.
 
-- 🏢 Part of [vo1d0x](https://github.com/vo1d0x)
+- 🏢 [vo1d0x](https://github.com/vo1d0x)
 - 🌐 [qube.foo](https://qube.foo)
 ---
 
